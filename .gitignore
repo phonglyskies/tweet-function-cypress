@@ -1,0 +1,7 @@
+yarn.lock
+package-lock.json
+.env
+.editorconfig
+.eslintrc.json
+node_modules
+cypress.env.json

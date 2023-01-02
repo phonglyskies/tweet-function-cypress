@@ -1,0 +1,16 @@
+{
+  "usernameInput": "input[name='username']",
+  "passwordInput": "input[name='password']",
+  "infoLoginInput": "input[name='text']",
+  "loginButton": "[data-testid='LoginForm_Login_Button']",
+  "addMoreTweetButton": "[data-testid='addButton']",
+  "tweetButton": "[data-testid='tweetButtonInline']",
+  "mediaInput": "[data-testid='fileInput']",
+  "pollIcon": "[data-testid='createPollButton']",
+  "addMorePollChoice": "[data-testid='addPollChoice']",
+  "poolChoice1": "input[name='Choice1']",
+  "poolChoice2": "input[name='Choice2']",
+  "poolChoice3": "input[name='Choice3']",
+  "tweetTextArea": "[data-testid='tweetTextarea_0RichTextInputContainer']",
+  "toastAlert": "[data-testid='toast']"
+}
